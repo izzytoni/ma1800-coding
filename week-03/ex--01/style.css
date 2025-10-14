@@ -1,0 +1,22 @@
+
+    body {
+        background-color: #bc8383;
+        font-family: Arial, sans-serif;
+    }
+
+    h1 {
+        color: #2b066a;
+
+    }
+    p {
+        color: #4a235a;
+        font-size: 18px;
+    }
+
+    .box{
+        background-color: #2b066a
+        border 1px dashed #000000;
+        padding: 10px
+
+
+    }
